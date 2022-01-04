@@ -6,4 +6,5 @@
 |2021/11/03|DB|리플리케이션의 문제와 해결방법 (복제지연, semi-sync)|리플리케이션에서 발생할 수 있는 복제지연, 데이터 정합성 문제와 해결방법에 대해 정리했습니다|[리플리케이션의 문제와 해결방법 (복제지연, semi-sync)](https://iiaii.tistory.com/8)|
 |2021/11/10|DB|샤딩(Sharding)|데이터베이스의 꽃, 샤딩에 대해 알아봅니다|[샤딩(Sharding)](https://iiaii.tistory.com/9)|
 |2021/12/08|IDE|IntelliJ 라이브 템플릿|IntelliJ 코드 자동완성 커스텀 하는법 (라이브 템플릿)을 정리했습니다|[IntelliJ 코드 자동완성 커스텀 하는법 (라이브 템플릿)](https://iiaii.tistory.com/10)|
+|2022/01/04|Cache|[Redis - 실시간 랭킹 가이드 01] 캐시란? 왜 레디스인가?|Redis와 캐시에 대해 정리해보았습니다|[[Redis - 실시간 랭킹 가이드 01] 캐시란? 왜 레디스인가?](https://zuminternet.notion.site/Redis-01-2970a6b4b44740fa8c4c7ab9fc594e39)|
 
