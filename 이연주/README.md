@@ -13,4 +13,4 @@
 |JAVA|객체지향|private 생성자나 열거 타입으로 싱글턴임을 보장하자 |[링크](https://peacebestill.oopy.io/java/effective-java/2)|
 |JAVA|객체지향|인스턴스 생성을 막으려거든 private 생성자를 사용하자  |[링크](https://peacebestill.oopy.io/java/effective-java/3)|
 |JAVA|객체지향|자원을 직접 명시하지 말고 의존 객체 주입을 사용하자 |[링크](https://peacebestill.oopy.io/java/effective-java/4)|
-
+|JAVA|객체지향|객체를 적절히 파괴하는 것 |[링크](https://peacebestill.oopy.io/java/effective-java/5)|
