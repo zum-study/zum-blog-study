@@ -1,5 +1,13 @@
 ## wiii([@gitgitWi](https://github.com/gitgitWi/zum-blog-study)) 블로그 스터디
 
+### 22. 01. 25.
+
+|제목|카테고리|링크|
+|---|---|---|
+| Tdd 뉴비가 느낀 러닝 커브와 재미 | TIL | [Hashnode](https://wiii.hashnode.dev/fullstack-tdd-by-newbie-01), [velog](https://velog.io/@johnwi/fullstack-tdd-by-newbie-01) |
+
+<br />
+
 ### 22. 01. 19.
 
 |제목|카테고리|링크|
