@@ -1,5 +1,29 @@
 # 황준일 블로그 스터디
 
+## [2022년 4주차]
+
+|제목|카테고리|설명|링크|
+|---|---|---|---|
+|[사이드 프로젝트] 단국대 시간표 만들기|기술블로그|본 게시물은 이 사이드 프로젝트를 시작하게 된 계기와 어떤 부분에 대해서 고민했는지 다루고 있습니다.|[링크](https://junilhwang.github.io/TIL/side-project/dku-schedule-manager/)|
+
+## [49주차]
+
+|제목|카테고리|설명|링크|
+|---|---|---|---|
+|Zum Portal Core JS 소개|기술블로그|줌인터넷 프론트엔드 파트에서 사용되고 있는 표준화 core package에 대해 다룹니다.|[링크](https://zuminternet.github.io/zum-portal-core-js/)|
+
+## [46주차]
+
+|제목|카테고리|설명|링크|
+|---|---|---|---|
+|NestJS Custom Caching Decorator 만들기|기술블로그|NestJS에 호환 되는 Chaching Decorator 를 만들기 위한 삽질 과정을 담고 있습니다.|[링크](https://zuminternet.github.io/nestjs-custom-decorator/)|
+
+## [44주차]
+
+|제목|카테고리|설명|링크|
+|---|---|---|---|
+|Effectuation Process 세미나 리뷰|회고/리뷰|Effectuation에 대해 학습한 내용을 정리하고 실천 계획을 세워보는 내용|[링크](https://zuminternet.notion.site/Effectuation-Process-a84dfc9670b0417690f973bd760b0ce5)|
+
 ## [42주차]
 
 |제목|카테고리|설명|링크|
