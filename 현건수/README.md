@@ -8,4 +8,5 @@
 |2022/02/16|Network|네트워크 원리 - 웹 브라우저가 메시지를 만든다| 네트워크 전체 구성과 웹 브라우저가 메시지를 만드는 원리를 소개합니다 |[Blog](https://velog.io/@hgs-study/network-01)|
 |2022/03/16|CircuitBreaker| Resilience4j를 활용한 서킷브레이커 | Resilience4j를 활용한 MSA의 회복성 패턴 서킷브레이커 등 Practice 프로젝트  |[GitHub](https://github.com/hgs-study/circuitbreaker-practice)|
 |2022/04/06|CircuitBreaker| Resilience4j를 활용한 서킷브레이커 | CircuitBreaker - 분산 서버 외부 API 장애 관리  |[Blog](https://velog.io/@hgs-study/CircuitBreaker)|
-|2022/04/13|Distributed Lock| Redisson을 이용한 분산락 | Redisson 분산락을 이용하여 선착순 대기 인원 N명 순번 표출 |[GitHub](https://github.com/hgs-study/distributed-lock-practice)|
+|2022/04/13|Distributed Lock| Redisson을 이용한 분산락 | Redis 클라이언트인 Redisson을 활용하여 분산락으로 동시성을 제어합니다. (예제포함) |[GitHub](https://github.com/hgs-study/distributed-lock-practice)|
+|2022/04/27|Distributed Lock| Redisson을 이용한 분산락 | Redis 클라이언트인 Redisson을 활용하여 분산락으로 동시성을 제어합니다. (예제포함) |[Blog](https://velog.io/@hgs-study/redisson-distributed-lock)|
