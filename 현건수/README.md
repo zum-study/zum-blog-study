@@ -11,3 +11,4 @@
 |2022/04/13|Distributed Lock| Redisson을 이용한 분산락 | Redis 클라이언트인 Redisson을 활용하여 분산락으로 동시성을 제어합니다. (예제포함) |[GitHub](https://github.com/hgs-study/distributed-lock-practice)|
 |2022/04/27|Redis (Distributed Lock)| Redisson을 이용한 분산락 | Redis 클라이언트인 Redisson을 활용하여 분산락으로 동시성을 제어합니다. (예제포함) |[Blog](https://velog.io/@hgs-study/redisson-distributed-lock)|
 |2022/05/04|Redis (SortedSet)| Redis SortedSet 활용 | Redis SortedSet을 활용해서 선착순 100명에게 30개 치킨 기프티콘 발급 (예제포함) |[GitHub](https://github.com/hgs-study/redis-sorted-set-practice)|
+|2022/05/11|Redis (SortedSet)| Redis SortedSet 활용 | Redis SortedSet을 활용해서 선착순 100명에게 30개 치킨 기프티콘 발급 (예제포함) |[Blog](https://velog.io/@hgs-study/redis-sorted-set)|
